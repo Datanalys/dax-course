@@ -1,1 +1,1 @@
-Welcome to this course!
+Welcome to Introduction to DAX 😁!
